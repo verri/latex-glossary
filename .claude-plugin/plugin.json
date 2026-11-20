@@ -1,0 +1,10 @@
+{
+  "name": "latex-glossary",
+  "version": "0.1.0",
+  "description": "Build and maintain the glossary of a LaTeX book (glossaries-extra): extract candidate terms with an LLM, review them against the author's style guide, verify descriptions against the book, and wrap occurrences with \\gls.",
+  "author": { "name": "Filipe Verri" },
+  "homepage": "https://github.com/verri/latex-glossary",
+  "repository": "https://github.com/verri/latex-glossary",
+  "license": "MIT",
+  "keywords": ["latex", "glossary", "glossaries-extra", "books", "ollama"]
+}

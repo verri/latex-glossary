@@ -1,0 +1,11 @@
+{
+  "name": "latex-glossary",
+  "owner": { "name": "Filipe Verri" },
+  "plugins": [
+    {
+      "name": "latex-glossary",
+      "source": "./",
+      "description": "Build and maintain the glossary of a LaTeX book (glossaries-extra) with LLM help and human review."
+    }
+  ]
+}
